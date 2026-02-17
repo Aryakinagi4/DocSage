@@ -1,5 +1,11 @@
 # DocSage – Serverless Intelligent Document Processing System
 
+![AWS](https://img.shields.io/badge/AWS-Lambda-orange)
+![Docker](https://img.shields.io/badge/Docker-Containerized-blue)
+![Microservices](https://img.shields.io/badge/Architecture-Microservices-lightgrey)
+![LLM](https://img.shields.io/badge/AI-LLM-green)
+
+
 DocSage is a distributed, serverless Intelligent Document Processing (IDP) platform designed to extract structured information from unstructured documents and enable conversational AI over document content.
 
 The system is built using FastAPI microservices deployed as AWS Lambda container images behind API Gateway, with AWS-native storage, authentication, and CI/CD automation.
